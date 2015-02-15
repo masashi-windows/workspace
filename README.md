@@ -15,6 +15,11 @@ JOIN CHAT を利用する場合は、GitHubのアカウントが必要です。
 https://github.com/ncxx-sl-lab/SampleQuestion
 
 
+### ◆ Android開発の参考ブログやサイト
+Qiitaにまとめてストックしてありますので参考にしてください。  
+- Qiitaのストック  
+https://qiita.com/masashi-windows/stock
+
 ### ◆ Androidアプリのサンプルコードについて知りたい。
 Android勉強会のメンバーが作成したサンプルコードです。  
 作成次第、随時更新していきます。
